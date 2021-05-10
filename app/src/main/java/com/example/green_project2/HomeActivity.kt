@@ -42,7 +42,7 @@ class HomeActivity : AppCompatActivity() {
         tv_fee.text = "1,000원 (24시간까지)"
         returnBtn.isVisible=true
         itemInfo.isVisible=true
-        itemInfo.text="비밀번호는 137입니다.\n(이용중인 우산 #${umbrellaID})"
+        itemInfo.text="비밀번호는 5434입니다.\n(이용중인 우산 ID#${umbrellaID})"
     }
 
     fun serviceEnd(view: View){
