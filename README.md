@@ -5,6 +5,7 @@ Kotlin based android app
 - Account Registration/Login
 - QR scanning
 - Camera
+- E-mail report
 
 # Demo
 - Account Registration
